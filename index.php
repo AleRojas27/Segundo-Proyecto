@@ -13,7 +13,12 @@
   </head>
   <body>
 
+    Segundo Proyecto
+
     <?php
+
+    include "vista/modulos/prueba.php"; 
+
     
 
     ?>
