@@ -9,11 +9,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
 
-    <title>Alejandro Rojas 2</title>
+    <title>Proyecto 2</title>
   </head>
   <body>
 
-    Segundo Proyecto
+    XVIDEOS 2.0
 
     <?php
 
