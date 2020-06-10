@@ -40,20 +40,20 @@
                 me follo a la mamá de amigo que está dormida
 
             </a>
-        <div class="row">
-            <div class="col-4">
+            <div class="row">
+                <div class="col-4">
 
-                <a href="https://www.xvideos.com/amateur-channels/latina_xxx">
-                    Latina xxx
-                </a>
-            </div>
-            <div class="col-4">
-                182,6K Vistas
-            </div>
-            <div class="col-4">
-                8 min
-            </div>
-        </div>   
+                    <a href="https://www.xvideos.com/amateur-channels/latina_xxx">
+                        Latina xxx
+                    </a>
+                </div>
+                <div class="col-4">
+                    182,6K Vistas
+                </div>
+                <div class="col-4">
+                    8 min
+                </div>
+            </div>   
         </div>
         <div class="col-3">
 
@@ -85,15 +85,17 @@
                 </div>
             </div>
         </div>
-            <div class="col-3">
+        <div class="col-3">
 
-                <img src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/9d/14/e6/9d14e6f8e48570624895ac9fb2b1656d/9d14e6f8e48570624895ac9fb2b1656d.26.jpg" alt="">
+            <img src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/9d/14/e6/9d14e6f8e48570624895ac9fb2b1656d/9d14e6f8e48570624895ac9fb2b1656d.26.jpg" alt="">
 
-                <a href="https://www.xvideos.com/video49203927/le_llenan_la_concha_de_leche_entre_varios">
+            <a href="https://www.xvideos.com/video49203927/le_llenan_la_concha_de_leche_entre_varios">
 
-                    le llenan la concha de leche entre varios
+                le llenan la concha de leche entre varios
 
-                </a>
+            </a>
+            <div class="row">
+
                 <div class="col-4">
 
                     <a href="https://www.xvideos.com/channels/putalocura_oficial">
@@ -110,10 +112,11 @@
                 <div class="col-4">
 
                     7 min
-                        
                 </div>
-                </div>  
-    
+            </div>
+
+        </div>  
+
     </div>
 
 </div>
