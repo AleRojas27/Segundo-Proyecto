@@ -1,0 +1,14 @@
+.estiloContainer{
+    background-color: brown;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+body{
+    background-color: black;
+}
+.estiloHijoc{
+    padding-top: 30px;
+}
+.lineaDerecha{
+    border-left: 1px solid white;
+}
