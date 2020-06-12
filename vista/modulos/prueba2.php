@@ -2,9 +2,9 @@
 
     <div class="row">
 
-        <div class="col-3 estiloHijoc lineaDerecha">
+        <div class="col-3 estiloHijoc">
 
-                <img src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/59/b4/5c/59b45c4b99ca2eeb81a6522c44859b6a/59b45c4b99ca2eeb81a6522c44859b6a.30.jpg" alt="">
+                <img class="img-fluid" src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/59/b4/5c/59b45c4b99ca2eeb81a6522c44859b6a/59b45c4b99ca2eeb81a6522c44859b6a.30.jpg" alt="">
             
                 <a href="https://www.xvideos.com/video56308941/16031993/0/mamacitaz_-_cute_and_shy_latina_teen_julia_garcia_takes_deep_in_her_tight_pussy_a_real_big_cock">
             
@@ -31,9 +31,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-3 estiloHijoc lineaDerecha">
+        <div class="col-3 estiloHijoc">
 
-            <img src="https://img-l3.xvideos-cdn.com/videos/thumbs169ll/15/34/3b/15343b72e4160abe4b8f2b8d778ec3e2/15343b72e4160abe4b8f2b8d778ec3e2.2.jpg" alt="">
+            <img class="img-fluid" src="https://img-l3.xvideos-cdn.com/videos/thumbs169ll/15/34/3b/15343b72e4160abe4b8f2b8d778ec3e2/15343b72e4160abe4b8f2b8d778ec3e2.2.jpg" alt="">
 
             <a href="https://www.xvideos.com/video56383863/16031993/0/i_fuck_my_friend_s_mom_who_is_asleep">
 
@@ -55,9 +55,9 @@
                 </div>
             </div>   
         </div>
-        <div class="col-3 estiloHijoc lineaDerecha">
+        <div class="col-3 estiloHijoc">
 
-                <img src="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/8f/a2/9f/8fa29f43dacc1796a29d3052bd19b077/8fa29f43dacc1796a29d3052bd19b077.3.jpg" alt="">
+                <img class="img-fluid" src="https://cdn77-pic.xvideos-cdn.com/videos/thumbs169ll/8f/a2/9f/8fa29f43dacc1796a29d3052bd19b077/8fa29f43dacc1796a29d3052bd19b077.3.jpg" alt="">
 
                 <a href="https://www.xvideos.com/video56341041/mamada_de_mi_hermanastra_cuando_nos_quedamos_solos">
 
@@ -85,9 +85,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-3 estiloHijoc lineaDerecha">
+        <div class="col-3 estiloHijoc">
 
-            <img src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/9d/14/e6/9d14e6f8e48570624895ac9fb2b1656d/9d14e6f8e48570624895ac9fb2b1656d.26.jpg" alt="">
+            <img class="img-fluid" src="https://img-hw.xvideos-cdn.com/videos/thumbs169ll/9d/14/e6/9d14e6f8e48570624895ac9fb2b1656d/9d14e6f8e48570624895ac9fb2b1656d.26.jpg" alt="">
 
             <a href="https://www.xvideos.com/video49203927/le_llenan_la_concha_de_leche_entre_varios">
 
