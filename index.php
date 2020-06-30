@@ -17,7 +17,7 @@
     XVIDEOS 2.0
 
     <?php
-
+    include "vista/modulos/navbar2.php";
     include "vista/modulos/prueba2.php"; 
 
     
