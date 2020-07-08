@@ -1,5 +1,5 @@
 .estiloContainer{
-    background-color: brown;
+    background-color:white;
     margin-top: 30px;
     border-radius: 10px;
 }
@@ -13,9 +13,9 @@ body{
 .barraNavegacion{
     background-color: black;
     padding-left: 15px;
-    padding-right: 2px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .searchNav{
@@ -39,4 +39,9 @@ body{
 .botonUnegr{
     padding: 1px;
     background-color: red;
+    margin-left: 5px;
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
+
