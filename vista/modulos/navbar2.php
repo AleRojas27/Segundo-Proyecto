@@ -25,11 +25,11 @@
 
       <div class="col-4">
 
-        <nav class="navbar navbar-light bg-light">
+        <nav class="navbar navbar-light searchNav">
 
           <form class="form-inline">
           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit"> Buscar </button>
           </form>
 
         </nav>
@@ -37,9 +37,9 @@
       </div>
 
 
-      <div class="col-3 text-center">
+      <div class="col-3 text-center textNav">
 
-        <h5> EL MEJOR SITIO DE PORNO GRATIS </h5>
+        <p class="colorBlanco"> EL MEJOR SITIO <span class="colorRojo"> DE PORNO GRATIS </span> </p>
 
       </div>
 
@@ -48,9 +48,9 @@
 
         <div class="row form-inline">
 
-          <div class="col-5">
+          <div class="col-5 botonUnegr">
 
-            <button type="button" class="btn btn-danger"> Únete GRATIS </button>
+            <button type="button" class="btn colorBlanco"> Únete GRATIS. </button>
           
           </div>
 
@@ -62,7 +62,7 @@
 
           <div class="col-2">
 
-            <img class="img-fluid" src="https://img.icons8.com/ios-filled/50/000000/settings.png"/>
+            <img class="img-fluid" src="https://img.icons8.com/ios/50/000000/settings.png"/>
           
           </div>
         

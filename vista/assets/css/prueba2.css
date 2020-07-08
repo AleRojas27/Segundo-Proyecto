@@ -9,9 +9,6 @@ body{
 .estiloHijoc{
     padding-top: 30px;
 }
-.lineaDerecha{
-    border-left: 1px solid white;
-}
 
 .barraNavegacion{
     background-color: black;
@@ -19,4 +16,27 @@ body{
     padding-right: 2px;
     padding-top: 2px;
     padding-bottom: 2px;
+}
+
+.searchNav{
+    background-color:white;
+    border-radius: 5px;
+}
+
+.textNav{
+    margin-top: 15px;
+    font-size: 17px;
+}
+
+.colorRojo{
+    color: red;
+}
+
+.colorBlanco{
+    color:white;
+}
+
+.botonUnegr{
+    padding: 1px;
+    background-color: red;
 }
