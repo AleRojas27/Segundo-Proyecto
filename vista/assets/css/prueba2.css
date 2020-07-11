@@ -1,10 +1,11 @@
 .estiloContainer{
-    background-color:white;
+    background-color:black;
     margin-top: 30px;
     border-radius: 10px;
+    color: white;
 }
 body{
-    background-color: black;
+    background-color:black;
 }
 .estiloHijoc{
     padding-top: 30px;
@@ -19,7 +20,7 @@ body{
 }
 
 .searchNav{
-    background-color:white;
+    background-color:black;
     border-radius: 5px;
 }
 
@@ -43,5 +44,19 @@ body{
     margin-right: 1px;
     margin-top: 1px;
     margin-bottom: 1px;
+}
+
+.estiloContaiflu{
+    background: black;
+}
+
+.cardFooter{
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.separacionCardFooter{
+    padding: 20px;
 }
 

@@ -16,7 +16,12 @@
 
     <?php
     include "vista/modulos/navbar2.php";
-    include "vista/modulos/prueba2.php"; 
+    for($i = 1; $i <= 3; $i++){
+      include "vista/modulos/prueba2.php";
+    }
+
+    
+    include "vista/modulos/piedepagina.php"; 
 
     
 
